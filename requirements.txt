@@ -1,0 +1,12 @@
+### **requirements.txt**
+
+```bash
+telethon
+pandas
+dbt
+torch
+uvicorn
+fastapi
+sqlalchemy
+psycopg2
+opencv-python
